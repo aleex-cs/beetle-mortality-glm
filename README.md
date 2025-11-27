@@ -80,7 +80,7 @@ source("scripts/sex_dose_study.R")
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
 
 
 
